@@ -1,5 +1,1 @@
-Hello, Python!
-# hexlet-git
-# hexlet-git
-# hexlet-git
-# hexlet-git
+Hello, Hexlet! How are you&
